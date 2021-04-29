@@ -41,7 +41,7 @@
   <img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png" alt="cloudinary" height="30"/>
   
   <details>
-  <summary>:zap: GitHub Stats</summary>
+  GitHub Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&hide_border=true" />
 
 </details>
