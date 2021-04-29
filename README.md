@@ -35,8 +35,8 @@
   </td>
   <td width="54%" float="center" align="center">
 <p align="center">
-  <br>
-  <p>:zap: GitHub Stats</p>
+<!--   <br>
+  <p>:zap: GitHub Stats</p> -->
   <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" width="600px"/>
   </p>
   </td>
