@@ -49,3 +49,5 @@
 [linkedin]: https://www.linkedin.com/in/guillermo-gonzales-26b7761b5/
 
 [instagram]: https://www.instagram.com/6uillermooog/
+
+<a href="https://www.videogamez.xyz" ><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1619725474/videogamez/videogamez_eakokg.png" height="20" width="30" />Videogamez - Personal Project</a>
