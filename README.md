@@ -15,7 +15,7 @@
 
 <table width="100%" align="center" heigth:"fit-content"
   <tr>
-  <td width="45%" float="center" align="center">
+  <td width="45%" float="center">
       
 
 
