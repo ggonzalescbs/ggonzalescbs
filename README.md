@@ -43,7 +43,7 @@
  <p align="right">hola</p>
 
   <summary>GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" />
 
 <!--
 **ggonzalescbs/ggonzalescbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
