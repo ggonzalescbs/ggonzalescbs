@@ -89,7 +89,7 @@
 <br><p align="center" width="100%">
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" width="100%"/>
+  <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" width="600px"/>
   </p>
   </td>
   </table>
