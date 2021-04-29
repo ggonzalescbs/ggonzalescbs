@@ -13,9 +13,9 @@
 
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
 
-<table width="95%" align="center" heigth:"fit-content"
+<table width="100%" align="center" heigth:"fit-content"
   <tr>
-  <td width="50%" float="center" align="center">
+  <td width="45%" float="center" align="center">
       
 
 
@@ -38,10 +38,10 @@
 
 
   </td>
-  <td width="50%" float="center" align="center">
+  <td width="54%" float="center" align="center">
 
-<br><p align="center">
-  <h3>:zap: GitHub Stats</h3>
+<p align="center">
+  <p>:zap: GitHub Stats</p>
   <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" width="600px"/>
   </p>
   </td>
