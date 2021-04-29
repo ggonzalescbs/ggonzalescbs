@@ -26,7 +26,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content:space-between">
-    <div>
+    <div style="background:red">
       <p align="left">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30"/>
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="30"/>
@@ -45,7 +45,7 @@
         <img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png" alt="cloudinary" height="30"/>
        </p>
     </div>
-    <div>
+    <div<div style="background:blue">>
       <summary>GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" />
     </div>
