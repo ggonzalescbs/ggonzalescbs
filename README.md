@@ -10,6 +10,16 @@
 </h1>
 </p>
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
+
+### Connect with me:
+
+[<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+
+[<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />][instagram]
+
+<br>
+<br>
+
 <table width="100%" align="center" heigth:"fit-content" cellspacing="0" cellpadding="0" style:"border:none">
   <tr>
   <td width="50%" align="center">
@@ -40,14 +50,9 @@
 ### Spotify Playing 🎧
 [![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
                                        
-### Connect with me:
-
-[<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-
-[<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />][instagram]
 <br>
 <br>
-<h3>Projects</h3>
+<h2>Projects:</h2>
 <a href="https://www.videogamez.xyz" >Videogamez - Personal Project</a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://atlas-store.netlify.app/" ><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1619725474/videogamez/videogamez_eakokg.png" width="500" /></a>
