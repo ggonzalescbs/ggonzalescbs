@@ -10,9 +10,11 @@
 </h1>
 </p>
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
+<br/>
 ### Connect with me:
 [<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
 <table width="100%" align="center" heigth:"fit-content" cellspacing="0" cellpadding="0" style:"border:none">
   <tr>
   <td width="50%" align="center">
