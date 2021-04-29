@@ -36,11 +36,10 @@
   </p>
  </td>
 </table>
-
 ### Spotify Playing 🎧
 [![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
-
-<h4>Connect with me:</h4>
+                                       
+### Connect with me:
 [<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [linkedin]: https://www.linkedin.com/in/guillermo-gonzales-26b7761b5/
