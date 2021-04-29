@@ -5,14 +5,11 @@
   <a href="#" ><img src="https://media.giphy.com/media/3oEduKxFBnlec6DBMA/giphy.gif" width="150" /></a>
   <a href="#" ><img src="https://media.giphy.com/media/3oEduKxFBnlec6DBMA/giphy.gif" width="150" /></a>
 </p>
-
 <p float="center">
   <h1 align="center"><img align="center" src="https://media.giphy.com/media/lcjDOcw21MzGGZImiR/giphy.gif" width="60"/>Hi little creatures, I'm Guillermo
 </h1>
 </p>
-
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
-
 <table width="100%" align="center" heigth:"fit-content" cellspacing="0" cellpadding="0" style:"border:none">
   <tr>
   <td width="50%" align="center">
@@ -37,12 +34,16 @@
 <p align="center">
   <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&bg_color=181A1B&icon_color=d7e0dc&title_color=d7e0dc&text_color=d7e0dc&hide_border=true" width="500px"/>
   </p>
-  </td>
-  </table>
-  
-  ### Spotify Playing 🎧
+ </td>
+</table>
+<br>
+<br>
+### Spotify Playing 🎧
 [![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
+<br>
+### Connect with me:
+[<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-  
-                                       
-
+[linkedin]: https://www.linkedin.com/in/guillermo-gonzales-26b7761b5/
+[instagram]: https://www.instagram.com/6uillermooog/
