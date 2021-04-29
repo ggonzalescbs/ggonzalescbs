@@ -60,7 +60,7 @@
 
 
 
-<table width="100%"> 
+<table width="100%" float="center"> 
   <tr>
   <td width="50%">
       
