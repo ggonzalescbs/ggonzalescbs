@@ -13,7 +13,7 @@
 
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
 
- <p align="left">
+ <p>
     <h3 align="left">Languages and Tools:</h3>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="30"/>
