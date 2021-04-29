@@ -40,8 +40,11 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" height="30"/>
   <img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png" alt="cloudinary" height="30"/>
   
-  
-  <code><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" height="30"/></a></code>
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 **ggonzalescbs/ggonzalescbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
