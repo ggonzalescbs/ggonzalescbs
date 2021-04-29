@@ -15,8 +15,8 @@
 
 <table width="100%" align="center" heigth:"fit-content" cellspacing="0" cellpadding="0" style:"border:none">
   <tr>
-  <td width="45%" align="center">
-<h3>Languages and Tools:</h3>
+  <td width="50%" align="center">
+<h3>Languages and Tools</h3>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="30"/>
@@ -33,34 +33,12 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" height="30"/>
 <img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png" alt="cloudinary" height="30"/>
   </td>
-  <td width="54%" float="center" align="center">
+  <td width="50% float="center" align="center">
 <p align="center">
-<!--   <br>
-  <p>:zap: GitHub Stats</p> -->
   <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&bg_color=181A1B&icon_color=d7e0dc&title_color=d7e0dc&text_color=d7e0dc&hide_border=true" width="500px"/>
   </p>
   </td>
   </table>
-
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-
-
-
-
-
-
-<!--
-**ggonzalescbs/ggonzalescbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                       
+### Spotify Playing 🎧
+[<img src="https://spotifyplay-phi.vercel.app/" alt="ggonzalescbs" width="350" />](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
