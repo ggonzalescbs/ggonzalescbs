@@ -45,7 +45,7 @@
         <img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png" alt="cloudinary" height="30"/>
        </p>
     </div>
-    <div<div style="background:blue">>
+    <div style="background:blue">
       <summary>GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" />
     </div>
