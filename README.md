@@ -45,7 +45,8 @@
 [<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />][instagram]
-
+<br>
+<br>
 <h3>Projects</h3>
 <a href="https://www.videogamez.xyz" >Videogamez - Personal Project</a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
