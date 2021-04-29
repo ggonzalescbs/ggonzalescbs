@@ -15,9 +15,9 @@
 
 <table width="100%" float="center" align="center">
   <tr>
-  <td width="50%">
+  <td width="50%" float="center" align="center">
       
-&nbsp;
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30"/>
