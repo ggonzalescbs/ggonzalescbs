@@ -41,4 +41,5 @@
   </table>
                                        
 ### Spotify Playing 🎧
+[![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
 [<img src="https://spotifyplay-phi.vercel.app/api/spotify-playing" alt="ggonzalescbs Spotify Now Playing" width="350" />](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
