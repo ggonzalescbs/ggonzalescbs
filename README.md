@@ -41,7 +41,7 @@
   <td width="50%">
 
 <br>
-  <p>
+  <p align="left">
 <h3 align="left">GitHub Stats:</h3>
 <img align="left" alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true"/>
 </p>
