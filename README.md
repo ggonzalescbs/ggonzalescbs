@@ -6,6 +6,17 @@
   <a href="#" ><img src="https://media.giphy.com/media/3oEduKxFBnlec6DBMA/giphy.gif" width="150" /></a>
 </p>
 
+<p float="center">
+  <h1 align="center"><a href="#" ><img align="center" src="https://media.giphy.com/media/lcjDOcw21MzGGZImiR/giphy.gif" width="80" /></a>Hi little creatures, I'm Guillermo
+<!--   <a href="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616988077/GitHub%20Profile/linkedin_rwayfd.svg" alt="https://www.linkedin.com/in/esequieldelgado-fullstack-uxui/" height="30" width="40" /></a>
+  <a href="https://www.behance.net/ezed" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987982/GitHub%20Profile/behance_digfkg.svg" alt="https://www.behance.net/ezed" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/im_edl/" target="blank"><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616987808/GitHub%20Profile/instagram_hfy47c.svg" height="30" width="40" /></a>
+  <a href="#" ><img align="center" src="https://media.giphy.com/media/5hmgfdvimPl5NjTUU6/giphy.gif" width="50" /></a> -->
+</h1>
+</p>
+
+<h3 align="center">I am full stack developer, a proactive person committed to do what I propose with a big motivation to learn new technologies and improve my knowledge.</h3>
+
 ### Hi there 👋
 
 <!--
