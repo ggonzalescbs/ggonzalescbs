@@ -13,16 +13,6 @@
 
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
 
-<p>
-  <h3 align="left">GitHub Stats:</h3>
-<img align="left" alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true"/>
-</p>
-
-
-
-
-
-
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -52,14 +42,15 @@
 
 <br>
   <p>
-<summary>GitHub Stats</summary>
+<h3 align="left">GitHub Stats:</h3>
 <img align="left" alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true"/>
 </p>
   </td>
   </table>
 
 
-
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
 
 
