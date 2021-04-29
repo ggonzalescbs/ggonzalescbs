@@ -46,7 +46,8 @@
 
 [<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />][instagram]
 
-<a href="https://www.videogamez.xyz" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616990316/GitHub%20Profile/point_msrsac.svg" height="20" width="30" />Videogamez - Personal Project</a>
+<h3>Projects</h3>
+<a href="https://www.videogamez.xyz" >Videogamez - Personal Project</a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://atlas-store.netlify.app/" ><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1619725474/videogamez/videogamez_eakokg.png" width="500" /></a>
 
