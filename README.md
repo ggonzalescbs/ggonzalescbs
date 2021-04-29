@@ -13,7 +13,7 @@
 
 <h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
 
-<table width="100%" align="center" heigth:"fit-content"
+<table width="95%" align="center" heigth:"fit-content"
   <tr>
   <td width="50%" float="center" align="center">
       
