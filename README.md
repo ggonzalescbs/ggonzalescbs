@@ -19,7 +19,7 @@
       
 &nbsp; <br>
   <h3 align="left">Languages and Tools:</h3>
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="30"/>
@@ -41,10 +41,12 @@
   <td width="50%">
 
 <br>
-
+  <p align="center">
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" />
+  </p>
+  
 
 
   
