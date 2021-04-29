@@ -42,7 +42,7 @@
                                        
 ### Connect with me:
 
-[<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" />][linkedin]
+[<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />][instagram]
 
