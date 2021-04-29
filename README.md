@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<div align="center">
+
   <div style="display: flex; align-items: center; justify-content:space-between">
     <div style="width:50%">
       <p align="left">
@@ -47,10 +47,10 @@
     </div>
     <div style="width:50%">
       <summary>GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" />
+      <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&hide_border=true" />
     </div>
   </div>
-</div>
+
 
   
 
