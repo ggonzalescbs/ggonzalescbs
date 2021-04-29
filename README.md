@@ -38,10 +38,11 @@
   <img align="left"  alt="ggonzalescbs's GitHub Stats" src="https://github-readme-stats-gilt-eta.vercel.app/api?username=ggonzalescbs&show_icons=true&count_private=true&bg_color=181A1B&icon_color=d7e0dc&title_color=d7e0dc&text_color=d7e0dc&hide_border=true" width="500px"/>
   </p>
   </td>
-  <td width="100%" align="center">
-    ### Spotify Playing 🎧
-[![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
-  </td>
   </table>
+  
+  ### Spotify Playing 🎧
+[![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
+
+  
                                        
 
