@@ -36,6 +36,7 @@
   </p>
  </td>
 </table>
+                                       
 ### Spotify Playing 🎧
 [![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
                                        
