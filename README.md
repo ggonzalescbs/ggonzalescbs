@@ -52,13 +52,13 @@
 <br>
 <br>
 <h2>Projects:</h2>
-<a href="https://www.videogamez.xyz" >Videogamez - Personal Project</a>
+<a href="https://videogamez.xyz" target="_blank">Videogamez - Personal Project</a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://videogamez.xyz" ><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1619725474/videogamez/videogamez_eakokg.png" width="500" /></a>
+<a href="https://videogamez.xyz" target="_blank"><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1619725474/videogamez/videogamez_eakokg.png" width="500" /></a>
 <br>
-<a href="https://www.videogamez.xyz" > &lt;CodeBakery&gt; - Group Project </a>
+<a href="https://codebakery.store" target="_blank"> &lt;CodeBakery&gt; - Group Project </a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
-<a href="https://codebakery.store" ><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1620515531/videogamez/cbakery_swbkdp.png" width="500" /></a>
+<a href="https://codebakery.store" target="_blank"><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1620515531/videogamez/cbakery_swbkdp.png" width="500" /></a>
 
 [linkedin]: https://www.linkedin.com/in/guillermo-gonzales-26b7761b5/
 
