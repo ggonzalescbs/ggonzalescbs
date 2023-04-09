@@ -39,26 +39,11 @@
  </td>
 </table>
 
-### Connect with me:
-
-[<img align="left" alt="ggonzalescbs | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-
-[<img align="left" alt="ggonzalescbs | Instagram" width="22px" src="https://149440826.v2.pressablecdn.com/wp-content/uploads/2020/03/instagram-png-instagram-png-logo-1455.png" />][instagram]
-<br>
-<br>
-### Spotify Playing 🎧
-[![Spotify](https://spotifyplay-phi.vercel.app//api/spotify)](https://open.spotify.com/user/o4fz4r19mps2yhrlte7bu0tmr)
-                                       
-<br>
-<br>
 <h2>Projects:</h2>
 <a href="https://videogamez.xyz" target="_blank">Videogamez - Personal Project</a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
 <a href="https://videogamez.xyz" target="_blank"><img align="center" src="https://res.cloudinary.com/ggonzalescbs/image/upload/v1619725474/videogamez/videogamez_eakokg.png" width="500" /></a>
 
-[linkedin]: https://www.linkedin.com/in/guillermo-gonzales-26b7761b5/
-
-[instagram]: https://www.instagram.com/6uillermooog/
 
 <br>
 
