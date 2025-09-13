@@ -6,10 +6,10 @@
   <a href="#" ><img src="https://media.giphy.com/media/3oEduKxFBnlec6DBMA/giphy.gif" width="150" /></a>
 </p>
 <p float="center">
-  <h1 align="center"><img align="center" src="https://media.giphy.com/media/lcjDOcw21MzGGZImiR/giphy.gif" width="60"/>Hi little creatures, I'm Guillermo
+  <h1 align="center"><img align="center" src="https://media.giphy.com/media/lcjDOcw21MzGGZImiR/giphy.gif" width="60"/>Hi little creatures
 </h1>
 </p>
-<h3 align="center">I'm a Full Stack Developer, motivated by all those new things I want to learn and implement on the projects I make.</h3>
+<h3 align="center">....</h3>
 <br>
 <br>
 <table width="100%" align="center" heigth:"fit-content" cellspacing="0" cellpadding="0" style:"border:none">
